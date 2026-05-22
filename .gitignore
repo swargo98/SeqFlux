@@ -1,0 +1,14 @@
+# Ignore log and json files
+*.log
+*.json
+*.csv
+*.pyc
+*.tar.gz
+*.fastq.gz
+
+# Ignore specific directories
+seqflux/
+seqflux_results/
+sratoolkit.3.1.0-ubuntu64/
+venv/
+__pycache__/
