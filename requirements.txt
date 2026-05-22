@@ -1,0 +1,15 @@
+certifi
+charset-normalizer
+idna
+joblib
+numpy
+packaging
+pyaml
+PyYAML
+requests
+scikit-learn
+scikit-optimize
+scipy
+threadpoolctl
+urllib3
+aiohttp
